@@ -1,16 +1,15 @@
 # friends_app
 
-A new Flutter project.
+This is a Flutter app example to demonstrate data CRUDing and State Management.
 
-## Getting Started
+<iframe 
+  width="640"
+  height="480"
+  src="https://www.youtube.com/embed/8v3k3AtU1Wo" 
+  title="Flutter: CRUD & State Management Demo Application Using lib_x" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+>
+</iframe>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And [here](https://medium.com/@hazem.monir/a5ac7f0f8745) is a tutorial article on medium.com of how this app is built.
