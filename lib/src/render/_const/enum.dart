@@ -1,0 +1,6 @@
+//
+//
+enum SubmitAction {
+  add,
+  delete,
+}
